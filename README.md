@@ -37,8 +37,4 @@ choco install make
 ```
 make
 ```
-即可生成prog文件。使用命令：
-```
-./prog
-```
-即可执行编译完成的文件。
+生成exe文件。之后执行exe文件即可。
