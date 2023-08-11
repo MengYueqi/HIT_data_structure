@@ -13,7 +13,7 @@
 - 实验3：Floyd_Warshall和dijkstra最短路径算法实现
 
 ## 使用方法
-### Linux或macOS系统 <br>
+### 1. Linux或macOS系统 <br>
 本项目中每个文件夹中都配置了相应的makefile文件。Linux和macOS系统中内置了g++和make，只需切换到想要执行的文件夹，使用命令：<br>
 ```
 make
@@ -24,7 +24,7 @@ make
 ```
 即可执行编译完成的文件。
 
-### Windows系统 <br>
+### 2. Windows系统 <br>
 用管理员权限启动cmd.exe，输入以下指令安装chocolatey：
 ```
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
