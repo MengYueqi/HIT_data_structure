@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "algorithm": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/mengfanxing/Documents/Data Structure/tree",
+            "binaryPath": "/Users/mengfanxing/Documents/Data Structure/tree/prog",
+            "binaryArgs": []
+        }
+    ]
+}

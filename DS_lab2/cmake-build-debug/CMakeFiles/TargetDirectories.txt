@@ -1,0 +1,3 @@
+/Users/mengfanxing/Desktop/DS_lab2/cmake-build-debug/CMakeFiles/DS_lab2.dir
+/Users/mengfanxing/Desktop/DS_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mengfanxing/Desktop/DS_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
